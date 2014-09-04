@@ -1,0 +1,3 @@
+[submodule "PopbillCashbill"]
+	path = PopbillCashbill
+	url = https://github.com/linkhub-sdk/popbill.cashbill.php.git
